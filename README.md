@@ -38,6 +38,16 @@ Enterprise-RAG-Chatbot/
 └── utils/
 ```
 
+---
+
+## ▶️ Run Project
+
+```bash
+pip install -r requirements.txt
+
+streamlit run app.py
+
+```
 ## Future Enhancements
 
 - Multi-user Authentication
